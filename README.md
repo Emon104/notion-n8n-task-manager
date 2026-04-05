@@ -36,6 +36,8 @@ Every 9:30 AM → Get Notion Tasks → If Due Today → Gmail
 ### Notion Database
 ![Notion](Notion_Database.jpg)
 
-### Email Reminder
+### High Priority Email Reminder
 ![Email](High_Priority_Task_email.jpg)
+
+### Today Due Date Email Reminder
 ![Email](Task_Reminder_email.jpg)
