@@ -1,0 +1,7 @@
+Demo Video:
+https://youtu.be/sGoTqGCXkuw
+
+Project: Automated Task Manager using n8n and notion
+Tools: n8n Cloud, Notion API, Gmail
+
+

@@ -1,0 +1,16 @@
+# Workflow Description
+
+## Workflow 1 — Add Task
+1. User submits form with Task Name, Priority and Due Date
+2. n8n Form Trigger receives the data
+3. Notion node creates a new page in Tasks database
+4. IF node checks if Priority = High
+5. If High → Gmail sends instant email reminder
+6. Task is stored with Status = To Do automatically
+
+## Workflow 2 — Daily Reminder
+1. Schedule Trigger runs every day at 9:30 AM
+2. Notion node fetches all incomplete tasks
+3. IF node checks if Due Date = Today
+4. If yes → Gmail sends reminder email
+5. Done tasks are automatically skipped
