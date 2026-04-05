@@ -4,7 +4,7 @@ An automation system that manages tasks using
 Notion as a database and n8n for workflow automation.
 
 ## Demo
-▶️ [Watch Demo on YouTube] https://youtu.be/sGoTqGCXkuw
+▶️ [Watch Demo on YouTube] (https://youtu.be/sGoTqGCXkuw)
 
 ## Features
 - Submit tasks through a form
